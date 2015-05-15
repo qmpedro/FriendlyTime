@@ -1,0 +1,7 @@
+C:\Users\pmanso\Desktop\FriendlyTime\FriendlyTime\FriendlyTimeTests\bin\Debug\FriendlyTimeTests.dll
+C:\Users\pmanso\Desktop\FriendlyTime\FriendlyTime\FriendlyTimeTests\bin\Debug\FriendlyTimeTests.pdb
+C:\Users\pmanso\Desktop\FriendlyTime\FriendlyTime\FriendlyTimeTests\bin\Debug\FriendlyTime.exe
+C:\Users\pmanso\Desktop\FriendlyTime\FriendlyTime\FriendlyTimeTests\bin\Debug\FriendlyTime.pdb
+C:\Users\pmanso\Desktop\FriendlyTime\FriendlyTime\FriendlyTimeTests\obj\Debug\FriendlyTimeTests.csprojResolveAssemblyReference.cache
+C:\Users\pmanso\Desktop\FriendlyTime\FriendlyTime\FriendlyTimeTests\obj\Debug\FriendlyTimeTests.dll
+C:\Users\pmanso\Desktop\FriendlyTime\FriendlyTime\FriendlyTimeTests\obj\Debug\FriendlyTimeTests.pdb

@@ -1,0 +1,5 @@
+C:\Users\pmanso\Desktop\FriendlyTime\FriendlyTime\FriendlyTime\bin\Debug\FriendlyTime.exe
+C:\Users\pmanso\Desktop\FriendlyTime\FriendlyTime\FriendlyTime\bin\Debug\FriendlyTime.pdb
+C:\Users\pmanso\Desktop\FriendlyTime\FriendlyTime\FriendlyTime\obj\Debug\FriendlyTime.csprojResolveAssemblyReference.cache
+C:\Users\pmanso\Desktop\FriendlyTime\FriendlyTime\FriendlyTime\obj\Debug\FriendlyTime.exe
+C:\Users\pmanso\Desktop\FriendlyTime\FriendlyTime\FriendlyTime\obj\Debug\FriendlyTime.pdb

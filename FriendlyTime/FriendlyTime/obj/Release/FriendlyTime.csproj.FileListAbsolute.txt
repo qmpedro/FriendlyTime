@@ -1,0 +1,4 @@
+C:\Users\pmanso\Desktop\FriendlyTime\FriendlyTime\FriendlyTime\bin\Release\FriendlyTime.exe
+C:\Users\pmanso\Desktop\FriendlyTime\FriendlyTime\FriendlyTime\bin\Release\FriendlyTime.pdb
+C:\Users\pmanso\Desktop\FriendlyTime\FriendlyTime\FriendlyTime\obj\Release\FriendlyTime.exe
+C:\Users\pmanso\Desktop\FriendlyTime\FriendlyTime\FriendlyTime\obj\Release\FriendlyTime.pdb
