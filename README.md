@@ -1,3 +1,3 @@
 Friendly Time
 ==
-(C#)
+Convert a Datetime value to Friendly Time (C#)
